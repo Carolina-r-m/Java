@@ -1,5 +1,5 @@
 public enum Especialidad {
-    PEQUEÑOS_ANIMALES,
+    PEQUENOS_ANIMALES,
     MAMIFEROS,
     GENERICO;
 }
