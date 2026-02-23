@@ -1,0 +1,3 @@
+Código: 4 - Nombre: Toshiba SSD - Precio: 56.0 - Unidades disponibles: 234 - Categoría: HD
+Código: 6 - Nombre: HP 25 SSD - Precio: 200.0 - Unidades disponibles: 120 - Categoría: HD
+Código: 7 - Nombre: HP 44 SSD - Precio: 1200.0 - Unidades disponibles: 140 - Categoría: HD

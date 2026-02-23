@@ -1,0 +1,2 @@
+Código: 2 - Nombre: Samsung Galaxy A20e - Precio: 125.0 - Unidades disponibles: 344 - Categoría: Móviles
+Código: 5 - Nombre: Samsung A70 - Precio: 402.0 - Unidades disponibles: 133 - Categoría: Móviles
