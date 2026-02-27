@@ -1,0 +1,60 @@
+Mesa: M1	Clientes:3
+	Consumido:50.0	Precio final: 47.5
+
+Cliente 1: Nombre: Angel Edad: 40Vip: No
+Cliente 2: Nombre: Ana Edad: 35Vip: No
+Cliente 3: Nombre: Rosa Edad: 29Vip: Si
+
+Mesa: M1	Clientes:5
+	Consumido:100.0	Precio final: 80.75
+
+Cliente 1: Nombre: Angel Edad: 40Vip: No
+Cliente 2: Nombre: Ana Edad: 35Vip: No
+Cliente 3: Nombre: Rosa Edad: 29Vip: Si
+Cliente 4: Nombre: Fidel Edad: 70Vip: No
+Cliente 5: Nombre: Eva Edad: 69Vip: Si
+
+Mesa: M2	Clientes:2
+	Consumido:40.0	Precio final: 36.0
+
+Cliente 1: Nombre: Pedro Edad: 20Vip: Si
+Cliente 2: Nombre: Juan Edad: 25Vip: No
+
+Mesa: M3	Clientes:4
+	Consumido:10.0	Precio final: 6.328079999999999
+
+Cliente 1: Nombre: Lucas Edad: 18Vip: Si
+Cliente 2: Nombre: María Edad: 28Vip: Si
+Cliente 3: Nombre: Andrea Edad: 25Vip: Si
+Cliente 4: Nombre: Juana Edad: 29Vip: Si
+
+Mesa: M1	Clientes:3
+	Consumido:160.0	Precio final: 152.0
+
+Cliente 1: Nombre: Angel Edad: 40 Vip: No
+Cliente 2: Nombre: Ana Edad: 35 Vip: No
+Cliente 3: Nombre: Rosa Edad: 29 Vip: Si
+
+Mesa: M1	Clientes:5
+	Consumido:260.0	Precio final: 209.95
+
+Cliente 1: Nombre: Angel Edad: 40 Vip: No
+Cliente 2: Nombre: Ana Edad: 35 Vip: No
+Cliente 3: Nombre: Rosa Edad: 29 Vip: Si
+Cliente 4: Nombre: Fidel Edad: 70 Vip: No
+Cliente 5: Nombre: Eva Edad: 69 Vip: Si
+
+Mesa: M2	Clientes:2
+	Consumido:340.0	Precio final: 306.0
+
+Cliente 1: Nombre: Pedro Edad: 20 Vip: Si
+Cliente 2: Nombre: Juan Edad: 25 Vip: No
+
+Mesa: M3	Clientes:4
+	Consumido:450.0	Precio final: 284.7636
+
+Cliente 1: Nombre: Lucas Edad: 18 Vip: Si
+Cliente 2: Nombre: María Edad: 28 Vip: Si
+Cliente 3: Nombre: Andrea Edad: 25 Vip: Si
+Cliente 4: Nombre: Juana Edad: 29 Vip: Si
+
