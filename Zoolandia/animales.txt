@@ -1,0 +1,6 @@
+Especie: Ave
+Id: 4 Nombre: Rufina Sexo: H
+Especie: Mamifero
+Id: 1 Nombre: Bruno Sexo: M
+Especie: Reptil
+Id: 2 Nombre: ooo Sexo: m
